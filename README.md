@@ -15,5 +15,5 @@ $ npm install -g screenshot-tweet
 Via the CLI, execute `screenshot-tweet` with the following arguments:
 
 ```bash
-$ screenshot-tweet TWEET_URL
+$ screenshot-tweet TWEET_URL FILE_PATH
 ```
