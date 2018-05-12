@@ -33,6 +33,8 @@ screenshotTweet(
 });
 ```
 
+If `filePath` is omitted, the Promise will resolve with a Buffer containing the screenshot data.
+
 ## CLI
 
 Execute `screenshot-tweet` from the command line with the following arguments:
